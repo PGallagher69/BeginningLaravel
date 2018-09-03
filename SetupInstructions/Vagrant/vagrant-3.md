@@ -5,7 +5,7 @@
   1. Press Start.
   2. Search for &quot;_Windows Features_&quot;.
   3. Click &quot;_Turn Windows Features On and Off_&quot;.
-  4. Untick "_Hyper-V_" > "_Hyper-V Platform_" - 
+  4. Untick "_Hyper-V_" > "_Hyper-V Platform_"
   5. Note: This will disable Docker if you have it installed!
 
 | Previous | Next |

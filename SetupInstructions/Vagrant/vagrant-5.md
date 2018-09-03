@@ -24,7 +24,7 @@ git clone https://github.com/laravel/homestead.git Homestead
 ssh-keygen -t rsa -b 4096 -C "[EmailAddress]"
 ```
 
-  9. For &quot;_Enter passphrase)&quot;, just press the Enter Key to leave this blank.
+  9. For &quot;_Enter passphrase&quot;, just press the Enter Key to leave this blank.
   10. In the Command Prompt, navigate to the new Homestead directory.
   11. Get the latest version of Laravel/Homestead using the following command;
 

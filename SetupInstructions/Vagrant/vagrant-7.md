@@ -3,7 +3,7 @@
 ## Setup homestead.yaml
 
   1. Open the Command Prompt.
-  2. Navigate to the &quot;c:\**[LaravelDirectory]**\Homestead&quot; directory.
+  2. Navigate to the &quot;_c:\\**[LaravelDirectory]**\\Homestead_&quot; directory.
   3. Create the Homestead.yaml Configuration File using either;
 
 Windows:
