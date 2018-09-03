@@ -1,9 +1,9 @@
-# Laravel Instructions (Step 14):
+# Laravel Instructions (Step 15):
 
 ## Create the HTML for the new View:
 
 1. Open VS Code.
-2. Open the following file, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md) ;
+2. Open the following file, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md);
 
 ```
 \resources\views\[ControllerName]\index.blade.php
@@ -62,15 +62,6 @@ You are logged in!
 
 @endif
 ```
-
-7. Open your Browser
-8. Navigate to the following address, replacing [**_ProjectName_**] with the name of the Project you chose, and replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md);
-
-```
-http://www.[ProjectName].local/[ControllerName]/
-```
-
-9. Verify that your test data is shown.
 
 | Previous | Next |
 | -------- | ---- |

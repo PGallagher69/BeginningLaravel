@@ -17,7 +17,7 @@ Resources\Views\[ControllerName]
 4. Right click on the "_dashboard.blade.php_" file and click "_Copy_".
 5. Right click on the new [**_ControllerName_**] folder and paste a copy of the file here, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md).
 6. Rename the file to "_index.blade.php_".
-7. You should have a structure as follows, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md), so;
+7. You should have a structure as follows, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md);
 
 ```
 Resources\Views\[ControllerName]\index.blade.php
