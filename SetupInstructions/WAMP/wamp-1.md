@@ -1,4 +1,4 @@
-# Setup for a WAMP based installation:
+# Setup for a WAMP based installation (Step 1):
 
 ## Cmder:
 

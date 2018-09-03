@@ -3,8 +3,8 @@ The Instructions for my Beginning Laravel Workshop
 
 You can get started using WAMP here;
 
-[WAMP Setup Instructions](wamp-1.md)
+[WAMP Setup Instructions](SetupInstructions/WAMP/wamp-1.md)
 
 Or you can use Vagrant and VirtualBox here;
 
-[Vagrant and VirtualBox Instructions](vagrant-1.md)
+[Vagrant and VirtualBox Instructions](SetupInstructions/Vagrant/vagrant-1.md)
