@@ -7,4 +7,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 3 - Install WAMP ](wamp-3.md) | [ Step 4 - Create Project >](wamp-5.md) |
+| [< Step 3 - Install WAMP ](wamp-3.md) | [ Step 5 - Create Project >](wamp-5.md) |
