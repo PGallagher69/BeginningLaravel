@@ -27,10 +27,10 @@
 <div class="card-header">Create [Model Name]</div>
 ```
 
-6. Find and remove everything between the following lines, replacing [**_Model Name_**] with the human readable name of the Model you created at [Step 2](laravel-2.md);
+6. Find and remove the section beginning and ending with following lines, replacing [**_modelname_**] with the lowercase name of the Model you created at [Step 2](laravel-2.md);
 
 ```HTML
-@if(count($[ModelName]))
+@if(count($[modelname]))
 ...
 @endif
 ```

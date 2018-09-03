@@ -2,7 +2,7 @@
 
 ## Get Data From Database in the new Controller:
 
-1. Open VS Code
+1. Open VS Code.
 2. Open the following file, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md);
 
 ```
@@ -33,10 +33,10 @@ public function index()
 $[modelname] = [ModelName]::all();
 ```
 
-7. Return the Model data with the View from the Controller by adding the following line to the index function, after the above line, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md), and replacing [**_modelname_**] with the lowercase name of the Model you created at [Step 2](laravel-2.md);
+7. Return the Model data with the View from the Controller by adding the following line to the index function, after the above line, replacing [**_controllername_**] with the lowercase name of the Controller you created at [Step 10](laravel-10.md), and replacing [**_modelname_**] with the lowercase name of the Model you created at [Step 2](laravel-2.md);
 
 ```PHP
-return view('[ControllerName]/index')->with('[modelname]', $[modelname]);
+return view('[controllername]/index')->with('[modelname]', $[modelname]);
 ```
 
 | Previous | Next |
