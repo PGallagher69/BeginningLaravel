@@ -6,7 +6,7 @@
 2. Navigate to [_WAMP Directory_]\www\ directory
 3. Create Project by entering 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `composer create-project laravel/laravel[*ProjectName*]`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `composer create-project laravel/laravel [ProjectName]`
 
 | Previous | Next |
 | -------- | ---- |
