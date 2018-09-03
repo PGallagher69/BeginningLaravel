@@ -15,10 +15,10 @@
 public function create() {
 ```
 
-4. Add the following line to the "_create_" function, replacing [**_ControllerName_**] with the Controller Name you chose in [Step 10](laravel-10.md);
+4. Add the following line to the "_create_" function, replacing [**_controllername_**] with the lowercase Controller Name you chose in [Step 10](laravel-10.md);
 
 ```PHP
-return view('[ControllerName]/create');
+return view('[controllername]/create');
 ```
 
 5. Save the file.
