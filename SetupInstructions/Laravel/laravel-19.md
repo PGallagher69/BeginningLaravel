@@ -36,12 +36,12 @@
 ```
 
 7. Add the following within the "_card-body_" Div section below the "_@endif_", replacing the following;
-    - [**_ControllerName_**] with the Controller Name you chose in [Step 10](laravel-10.md).
+    - [**_controllername_**] with the lowercase Controller Name you chose in [Step 10](laravel-10.md).
     - [**_columnname_**] with the lowercase Column Name.
     - [**_Column Name Label_**] with a human readable Column Name.
 
 ```HTML
-{!! Form::open(['url' => '[ControllerName]/store']) !!}
+{!! Form::open(['url' => '[controllername]/store']) !!}
 
     <div class="form-group">
 
