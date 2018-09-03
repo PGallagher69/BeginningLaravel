@@ -6,26 +6,28 @@
   2. Navigate to the &quot;_c:\\**[LaravelDirectory]**\\Homestead_&quot; directory, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md).
   3. Create the Homestead.yaml Configuration File using either;
 
-Windows:
+### Windows:
+
 ```
 init.bat
 ```
 
-Linux Bash:
+### Linux Bash:
+
 ```
 bash init.sh
 ```
 
-  4. Open Homestead.yaml in a text editor.
+  4. Open "_Homestead.yaml_" in a text editor.
   5. Set &quot;_authorize:_&quot; to the path to your .ssh directory, replacing [**_YourUsername_**] with the folder name of your User Directory.
   
-Windows;
+### Windows;
 
 ```
 c:/Users/[YourUsername]/.ssh/id\_rsa.pub
 ```
 
-Linux;
+### Linux;
 
 ```
 ~/.ssh/id_rsa.pub
@@ -33,13 +35,13 @@ Linux;
 
   6. Set &quot;_keys:_&quot; to the path to your .ssh directory, replacing [**_YourUsername_**] with the folder name of your User Directory.
   
-Windows;
+### Windows;
 
 ```
 c:/Users/[YourUsername]/.ssh/id\_rsa.pub
 ```
 
-Linux;
+### Linux;
 
 ```
 ~/.ssh/id_rsa
