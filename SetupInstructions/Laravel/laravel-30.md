@@ -2,7 +2,7 @@
 
 ## Add the Delete Functionality:
 
-Open the following file, replacing [**_controllername_**] with the Controller Name you chose in [Step 10](laravel-10.md);
+1. Open the following file, replacing [**_controllername_**] with the Controller Name you chose in [Step 10](laravel-10.md);
 
 ```
 \resources\views\[controllername]\index.blade.php
