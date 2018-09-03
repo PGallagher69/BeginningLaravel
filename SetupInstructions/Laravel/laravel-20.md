@@ -3,7 +3,7 @@
 ## Add the Create Page Controller Logic:
 
 1. Open VS Code
-2. Open the following file, replacing [**_ControllerName_**] with the Controller Name you chose in [Step 10](laravel-10.md);
+2. Open the following file, replacing [**_ControllerName_**] with the Controller Name you chose in [Step 10](laravel-10.md), and replacing [**_ControllerName_**] with the Pascal Case Controller Name you chose in [Step 10](laravel-10.md);
 
 ```
 \app\http\controllers\[ControllerName]Controller.php" file.

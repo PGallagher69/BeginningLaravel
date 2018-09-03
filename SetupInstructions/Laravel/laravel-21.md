@@ -9,7 +9,7 @@
 \routes\web.php
 ```
 
-3. Add the following route to the bottom of the file, to allow the Create page to receive the form Submit request, replacing [**_controllername_**] with the lowercase Controller Name you chose in [Step 10](laravel-10.md);
+3. Add the following route to the bottom of the file, to allow the Create page to receive the form Submit request, replacing [**_controllername_**] with the lowercase Controller Name you chose in [Step 10](laravel-10.md), and replacing [**_ControllerName_**] with the Pascal Case Controller Name you chose in [Step 10](laravel-10.md);
 
 ```PHP
 Route::post('/[controllername]/store', '[ControllerName]Controller@store');
