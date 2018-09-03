@@ -38,7 +38,9 @@
     - [**_modelname_**] with the lowercase Model Name you created at [Step 2](laravel-2.md).
     - [**_Column Name Label_**] with a human readable Column Name.;
 
+```HTML
 {{Form::text('[columnname]',$[modelname]->[columnname], ['class' => 'form-control', 'placeholder' => '[Column Name Label]'])}}
+```
 
 8. Find the following line;
 
