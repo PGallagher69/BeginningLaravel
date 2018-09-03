@@ -4,9 +4,11 @@
 
 1. Open Cmder
 2. Navigate to [_WAMP Directory_]\www\ directory
-3. Create Project by entering 
+3. Create Project by entering;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `composer create-project laravel/laravel [ProjectName]`
+```
+composer create-project laravel/laravel [ProjectName]
+```
 
 | Previous | Next |
 | -------- | ---- |
