@@ -1,15 +1,10 @@
 # Setup for a WAMP based installation (Step 4):
 
-## Create Project:
+## Install Composer:
 
-1. Open Cmder
-2. Navigate to [_WAMP Directory_]\www\ directory
-3. Create Project by entering;
-
-```
-composer create-project laravel/laravel [ProjectName]
-```
+  1. Download: [https://getcomposer.org/download/](https://getcomposer.org/download/)
+  2. Install: Normally
 
 | Previous | Next |
 | -------- | ---- |
-| [< Install WAMP ](wamp-3.md) | [Install Composer >](wamp-5.md) |
+| [< Step 3 - Install WAMP ](wamp-3.md) | [ Step 4 - Create Project >](wamp-5.md) |

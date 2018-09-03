@@ -1,4 +1,4 @@
-# Setup for a WAMP based installation (Step 5):
+# Setup for a WAMP based installation (Step 6):
 
 ## Add WAMP Virtual Server:
 
@@ -9,7 +9,9 @@
 5. In the &quot;Name of the Virtual Host&quot; box enter: &quot;www. **ProjectName**.local
 6. In the &quot;Complete absolute box&quot; enter the following, replacing _[WAMP Directory]_ with the location of your WAMP Installation Directory;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `[WAMP Directory]\www\[ProjectName]\public`
+```
+[WAMP Directory]\www\[ProjectName]\public
+```
 
 7. Leave the &quot;_If you want to use virtual host by IP_&quot; blank.
 8. Press the &quot;_Start the creation of the VirtualHost_&quot; button.
@@ -18,4 +20,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Create Project ](wamp-4.md) | [Check Website is Running >](wamp-6.md) |
+| [< Step 5 - Create Project ](wamp-5.md) | [Step 7 - Check Website is Running >](wamp-7.md) |

@@ -1,6 +1,7 @@
 # Setup for a WAMP based installation (Step 3):
 
-## WAMP:
+## Install WAMP:
+
   1. Download: [https://sourceforge.net/projects/wampserver/files/](https://sourceforge.net/projects/wampserver/files/)
   2. Install: Normally
   3. Set PHP Version to 7.19
@@ -13,4 +14,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Install Node ](wamp-2.md) | [Create Project >](wamp-4.md) |
+| [< Step 2 - Install Node ](wamp-2.md) | [ Step 4 - Install Composer >](wamp-4.md) |
