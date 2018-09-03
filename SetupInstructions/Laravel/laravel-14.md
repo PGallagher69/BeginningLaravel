@@ -6,21 +6,21 @@
 2. Find the following folder;
 
 ```
-Resources\Views
+resources\views
 ```
-3. Add a new folder in the "_Views_" folder called [**_ControllerName_**], replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md), so;
+3. Add a new folder in the "_Views_" folder called [**_controllername_**], replacing [**_controllername_**] with the lowercase name of the Controller you created at [Step 10](laravel-10.md), so;
 
 ```
-Resources\Views\[ControllerName]
+resources\views\[controllername]
 ```
 
 4. Right click on the "_dashboard.blade.php_" file and click "_Copy_".
-5. Right click on the new [**_ControllerName_**] folder and paste a copy of the file here, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md).
+5. Right click on the new [**_controllername_**] folder and paste a copy of the file here, replacing [**_controllername_**] with the lowercase name of the Controller you created at [Step 10](laravel-10.md).
 6. Rename the file to "_index.blade.php_".
-7. You should have a structure as follows, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md);
+7. You should have a structure as follows, replacing [**_controllername_**] with the lowercase name of the Controller you created at [Step 10](laravel-10.md);
 
 ```
-Resources\Views\[ControllerName]\index.blade.php
+resources\views\[controllername]\index.blade.php
 ```
 
 
