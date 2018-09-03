@@ -4,9 +4,7 @@
 
 ### Views:
 
-Views contain the HTML which is rendered by the user's browser.
-
-Views are typically stored in the "_\resources\views_" directory.
+Views contain the HTML which is rendered by the user's browser and are typically stored in the "_\resources\views_" directory.
 
 You can find more information on Views here;
 
