@@ -2,10 +2,10 @@
 
 ## Add the Edit Functionality:
 
-1. Open the following file, replacing [**_ControllerName_**] with the Controller Name you chose in [Step 10](laravel-10.md);
+1. Open the following file, replacing [**_controllername_**] with the lowercase Controller Name you chose in [Step 10](laravel-10.md);
 
 ```
-\resources\views\[ControllerName]\index.blade.php
+\resources\views\[controllername]\index.blade.php
 ```
 
 2. Find the following line;

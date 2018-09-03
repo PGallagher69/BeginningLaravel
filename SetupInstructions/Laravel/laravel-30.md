@@ -2,10 +2,10 @@
 
 ## Add the Delete Functionality:
 
-Open the following file, replacing [**_ControllerName_**] with the Controller Name you chose in [Step 10](laravel-10.md);
+Open the following file, replacing [**_controllername_**] with the Controller Name you chose in [Step 10](laravel-10.md);
 
 ```
-\resources\views\[ControllerName]\index.blade.php
+\resources\views\[controllername]\index.blade.php
 ```
 
 2. Find the following line;
@@ -43,8 +43,8 @@ Open the following file, replacing [**_ControllerName_**] with the Controller Na
     - [**_ModelName_**] with the Pascal Case Model Name you created at [Step 2](laravel-2.md)
 
 ```PHP
-$[modelname] = Car::find($id);
-        $car->delete();
+$[modelname] = [ModelName]::find($id);
+        $[modelname]->delete();
         return redirect('/[controllername]')->with('result', 'Deleted');
 ```
 
