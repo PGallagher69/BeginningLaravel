@@ -12,28 +12,41 @@ https://laravel.com/docs/5.6/artisan
 
 ---
 
-1. Open Cmder
-2. If using Vagrant
-  1. Navigate to the following directory,replacing the [**_LaravelDirectory_**] with the directory you chose;
+### Vagrant:
+
+1. Open a Command Prompt 
+2. Navigate to the following directory, replacing the [**_LaravelDirectory_**] with the directory you chose;
   
   ```
   [LaravelDirectory]\Homestead
   ```
 
-  2. Open an SSH session by using the following command;
+3. Open an SSH session by using the following command;
 
 ```
 vagrant ssh
 ```
 
-3. Navigate to your project directory.
-4. Enter the following command;
+4. Navigate to your project directory.
+5. Enter the following command;
 
 ```
 php artisan migrate
 ```
 
-5. Confirm that migrations completed successfully
+6. Confirm that migrations completed successfully
+
+### WAMP:
+
+1. Open a Command Prompt 
+2. Navigate to your project directory.
+3. Enter the following command;
+
+```
+php artisan migrate
+```
+
+4. Confirm that migrations completed successfully
 
 | Previous | Next |
 | -------- | ---- |
