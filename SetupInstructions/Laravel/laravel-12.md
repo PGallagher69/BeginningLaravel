@@ -30,9 +30,8 @@ php artisan make:model [ModelName] -m
 ```
 
 6. Open your Migration File, e.g. "_2018_09_01_071635_create_cars_table.php_".
-7. Find the "_up" function, around line 14.
-8.  
-9. Add various Model Properties within the "_Schema::create", for example;
+7. Find the "_up_" function, around line 14.  
+8. Add various Model Properties within the "_Schema::create_", for example;
 
 ```PHP
 $table->string('manufacturer');
@@ -40,8 +39,8 @@ $table->string('model');
 $table->string('colour');
 ```
 
-10. Return to your Command Prompt.
-11. Run the Migration by executing the following command;
+9. Return to your Command Prompt.
+10. Run the Migration by executing the following command;
 
 ```
 php artisan migrate
