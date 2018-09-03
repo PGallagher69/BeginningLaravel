@@ -38,4 +38,4 @@ Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 6 - Change "Home" to "Dashboard" - Controllers >](laravel-6.md) | [Step 8 - Create the Controller >](laravel-7.md) |
+| [< Step 6 - Change "Home" to "Dashboard" - Controllers >](laravel-6.md) | [Step 8 - Change "Home" to "Dashboard" - Middleware >](laravel-8.md) |
