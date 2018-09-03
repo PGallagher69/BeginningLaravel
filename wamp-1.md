@@ -1,9 +1,9 @@
-**Setup for a WAMP based installation:**
+# Setup for a WAMP based installation:
 
+## Cmder:
 
-**Cmder**:
 1. Download: [http://cmder.net/](http://cmder.net/)
-2. Copy to &quot;c:\Program Files(x86)\&quot;
+2. Copy to &quot;c:\Program Files(x86)\\&quot;
 3. Add Cmder to Path
     1. Open Environment Variables
     2. Edit Path Item
