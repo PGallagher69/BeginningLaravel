@@ -15,7 +15,7 @@
 Auth::routes()
 ```
 
-4. Below the above line add, replacing [**_controllername_**] with the lower case Controller Name you chose in [Step 10](laravel-10.md), and replace [**_ControllerName_**] which the Pascal Case (first letters of each word capitalised) Controller Name you chose in [Step 10](laravel-10.md);
+4. Below the above line add the following line, replacing [**_controllername_**] with the lower case Controller Name you chose in [Step 10](laravel-10.md), and replace [**_ControllerName_**] which the Pascal Case (first letters of each word capitalised) Controller Name you chose in [Step 10](laravel-10.md);
 
 ```PHP
 Route::resource('[controllername]', '[ControllerName]Controller');
