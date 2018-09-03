@@ -31,7 +31,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 3. Change the line to;
 
 ```PHP
-Route::get('/dashboard', 'DashboardController@index');
+Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
 ```
 
 4. Save the File.
