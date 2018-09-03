@@ -3,10 +3,10 @@
 ## Create the HTML for the new View:
 
 1. Open VS Code.
-2. Open the following file, replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md);
+2. Open the following file, replacing [**_controllername_**] with the lowercase name of the Controller you created at [Step 10](laravel-10.md);
 
 ```
-\resources\views\[ControllerName]\index.blade.php
+\resources\views\[controllername]\index.blade.php
 ```
 
 3. Find the following line, around line 8;
