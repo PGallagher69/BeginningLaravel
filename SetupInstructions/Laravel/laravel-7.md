@@ -34,7 +34,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
 ```
 
-4. Save the File.
+4. Save the "_web.php_" File.
 
 | Previous | Next |
 | -------- | ---- |

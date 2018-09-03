@@ -38,7 +38,7 @@ return redirect('/home');
 return redirect('/dashboard');
 ```
 
-5. Save the "_RedirectIfAuthenticated.php" file.
+5. Save the "_RedirectIfAuthenticated.php_" file.
 
 | Previous | Next |
 | -------- | ---- |
