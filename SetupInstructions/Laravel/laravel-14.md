@@ -8,7 +8,7 @@
 ```
 Resources\Views
 ```
-3. Add a new folder in the Views folder called [**_ControllerName_**], replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md), so;
+3. Add a new folder in the "_Views_" folder called [**_ControllerName_**], replacing [**_ControllerName_**] with the name of the Controller you created at [Step 10](laravel-10.md), so;
 
 ```
 Resources\Views\[ControllerName]

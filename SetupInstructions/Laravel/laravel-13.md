@@ -4,7 +4,7 @@
 
 
 1. Open a Browser.
-2. Navigation to the PHPMyAdmin site;
+2. Navigate to the PHPMyAdmin site;
 
 ### WAMP:
 
@@ -18,7 +18,7 @@ http://localhost/phpmyadmin
 http://www.phpmyadmin.local
 ```
 
-3. Click on [**_ProjectName_**] in list of databases on the left, replacing [**_ProjectName_**] with the name of the Project you chose.
+3. Click on [**_ProjectName_**] in the list of databases on the left, replacing [**_ProjectName_**] with the name of the Project you chose.
 4. Ensure that the [**_ModelName_**] table exists, replacing [**_ModelName_**] with the name of the Model you chose above.
 5. Click on the [**_ModelName_**] table, replacing [**_ModelName_**] with the name of the Model you chose above.
 6. Click the "_Insert_" Tab.
