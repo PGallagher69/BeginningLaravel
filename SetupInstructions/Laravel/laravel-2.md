@@ -12,7 +12,19 @@ https://laravel.com/docs/5.6/artisan
 
 ---
 
-### Vagrant:
+### For WAMP:
+
+1. Open a Command Prompt 
+2. Navigate to your project directory.
+3. Enter the following command;
+
+```
+php artisan migrate
+```
+
+4. Confirm that migrations completed successfully
+
+### For Vagrant:
 
 1. Open a Command Prompt 
 2. Navigate to the following directory, replacing the [**_LaravelDirectory_**] with the directory you chose;
@@ -35,18 +47,6 @@ php artisan migrate
 ```
 
 6. Confirm that migrations completed successfully
-
-### WAMP:
-
-1. Open a Command Prompt 
-2. Navigate to your project directory.
-3. Enter the following command;
-
-```
-php artisan migrate
-```
-
-4. Confirm that migrations completed successfully
 
 | Previous | Next |
 | -------- | ---- |
