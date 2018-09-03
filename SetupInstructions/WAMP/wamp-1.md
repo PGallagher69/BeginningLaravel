@@ -13,4 +13,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Introduction](README.md) | [Install Node >](wamp-2.md) |
+| [< Introduction](/README.md) | [Install Node >](wamp-2.md) |
