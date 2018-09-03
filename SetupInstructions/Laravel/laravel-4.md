@@ -10,10 +10,10 @@
 php artisan make:auth
 ```
 
-4. Confirm that Authentication scaffolded successfully, open VS Code and find the following directory, replacing [**_ProjectName_**] with the name of the Project you chose;
+4. Confirm that Authentication scaffolded successfully, open VS Code and find the following directory;
 
 ```
-[ProjectName]\app\Http\Controllers\Auth
+\app\Http\Controllers\Auth
 ```
 
 5. You should see 
