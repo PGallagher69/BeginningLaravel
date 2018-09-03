@@ -27,7 +27,7 @@ bash init.sh
 c:/Users/[YourUsername]/.ssh/id\_rsa.pub
 ```
 
-### Linux;
+### Linux Bash;
 
 ```
 ~/.ssh/id_rsa.pub
@@ -41,7 +41,7 @@ c:/Users/[YourUsername]/.ssh/id\_rsa.pub
 c:/Users/[YourUsername]/.ssh/id\_rsa.pub
 ```
 
-### Linux;
+### Linux Bash;
 
 ```
 ~/.ssh/id_rsa

@@ -18,4 +18,4 @@ vagrant up
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 8 - Configure the Hosts File](vagrant-8.md) | [Step 9 - 10)	Create the Laravel Project >](vagrant-10.md) |
+| [< Step 8 - Configure the Hosts File](vagrant-8.md) | [Step 10 -	Create the Laravel Project >](vagrant-10.md) |
