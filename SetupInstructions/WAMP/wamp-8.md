@@ -1,10 +1,10 @@
 # Setup for a WAMP based installation (Step 8):
 
-## Create Database User:**
+## Create Database User:
 
-1. Open Web Browser
+1. Open Web Browser.
 2. Navigate to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
-3. Enter Username: _**root**_
+3. Enter Username: _**root**_.
 4. Leave Password Blank.
 5. Press &quot;Go&quot;.
 6. Select &quot;_User Accounts_&quot; tab.
