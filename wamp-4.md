@@ -10,4 +10,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Install Node ](wamp-2.md) | [Install Composer >](wamp-4.md) |
+| [< Install WAMP ](wamp-3.md) | [Install Composer >](wamp-5.md) |

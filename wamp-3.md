@@ -8,9 +8,9 @@
         1. Open Environment Variables
         2. Edit Path Item
         3. Click browse
-        4. Navigate to [_WAMP Directory_]\bin\php\php7.1.9)
+        4. Navigate to [_WAMP Directory_]\bin\php\php7.1.9
         5. Click ok to all dialogs
 
 | Previous | Next |
 | -------- | ---- |
-| [< Install Node ](wamp-2.md) | [Install Composer >](wamp-4.md) |
+| [< Install Node ](wamp-2.md) | [Create Project >](wamp-4.md) |
