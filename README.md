@@ -20,4 +20,4 @@ Or you can use Vagrant and VirtualBox here;
 
 If you've already got an environment set up, then you can make your way straight to the Laravel Instructions here;
 
-[Laravel Instructions](Laravel/laravel-1.md)
+[Laravel Instructions](SetupInstructions/Laravel/laravel-1.md)
