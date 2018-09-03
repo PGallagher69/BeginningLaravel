@@ -1,14 +1,14 @@
 # Laravel Instructions (Step 7):
 
-## Change "Home" to "Dashboard" - Controllers:
+## Change "Home" to "Dashboard" - Routes:
 
 ### Routes:
 
 Routing is a method whereby the application looks up which Controller Method is executed for a particular web page address.
 
-In the case of Laravel, routes are stored in the routes/web.php file.
+In the case of Laravel, routes are stored in the "_routes/web.php_" file.
 
-All of our routes are going to be looking for "_home_", so we're going to change those to "_dashboard_" instead.
+All of our Dashboard routes are going to be looking for "_home_", so we're going to change those to "_dashboard_" instead.
 
 You can find more information on Routes here;
 

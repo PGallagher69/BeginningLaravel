@@ -17,7 +17,7 @@ https://laravel.com/docs/5.6/artisan
   1. Navigate to the following directory,replacing the [**_LaravelDirectory_**] with the directory you chose;
   
   ```
-  [LaravelDirectory]**\Homestead
+  [LaravelDirectory]\Homestead
   ```
 
   2. Open an SSH session by using the following command;

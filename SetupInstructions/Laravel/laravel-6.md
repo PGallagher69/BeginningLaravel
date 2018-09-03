@@ -8,13 +8,13 @@ Controllers are a way of grouping together all of the Request Handling Logic for
 
 This is where you can determine which View is shown for a particular page.
 
-You can find out more about Laravel Controllers here;
-
-https://laravel.com/docs/5.6/controllers
-
 When the User Authentication is scaffolded, it creates a set of routes, controllers and views named Home, which are actually the Dashboard. 
 
 This is a little confusing... However, it affords us the opportunity to delve into how an existing logic to see how everything is hung together. We can do this by renaming the Home naming to Dashboard...
+
+You can find out more about Laravel Controllers here;
+
+https://laravel.com/docs/5.6/controllers
 
 ---
 
@@ -31,10 +31,10 @@ This is a little confusing... However, it affords us the opportunity to delve in
 DashboardController.php
 ```
 
-4. Open the following file, replacing [**_ProjectName_**] with the name of the Project you chose;
+4. Open the following file;
 
 ```
-[ProjectName]\app\Http\Controllers\DashboardController.php
+\app\Http\Controllers\DashboardController.php
 ```
 
 5. Find the Main "_HomeController_" Class line;
