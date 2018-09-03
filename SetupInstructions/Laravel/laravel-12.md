@@ -22,7 +22,6 @@ php artisan make:model [ModelName] -m
 ```
 
 3. The "-m" switch instructs Artisan to create a Migration for our model.
-
 4. Open VS Code.
 5. Check to see if your new Migration File has been created in the following folder;
 
