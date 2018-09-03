@@ -6,4 +6,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Install Cmder](wamp-1.md) | [Install Node >](wamp-2.md) |
+| [< Install Cmder](wamp-1.md) | [Install WAMP >](wamp-3.md) |
