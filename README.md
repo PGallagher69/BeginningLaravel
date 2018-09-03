@@ -15,3 +15,9 @@ You can get started using WAMP here;
 Or you can use Vagrant and VirtualBox here;
 
 [Vagrant and VirtualBox Instructions](SetupInstructions/Vagrant/vagrant-1.md)
+
+---
+
+If you've already got an environment set up, then you can make your way straight to the Laravel Instructions here;
+
+[Laravel Instructions](Laravel/laravel-1.md)
