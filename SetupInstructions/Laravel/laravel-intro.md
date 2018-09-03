@@ -1,4 +1,4 @@
-# Laravel Instructions (Step 1):
+# Laravel Instructions (Introduction):
 
 ## Introduction to Laravel:
 
@@ -16,6 +16,7 @@ If you've not already done that, then [go back to the main Introduction](/README
 
 However, if you're ready... Then go ahead and go to the next step!
 
+### **Note: All of the files we reference will be relative to the [**_ProjectName_**] path you chose for your Project!**
 
 | Previous | Next |
 | -------- | ---- |
