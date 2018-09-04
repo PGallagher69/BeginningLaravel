@@ -2,9 +2,14 @@
 
 ## Setup homestead.yaml
 
-  1. Open the Command Prompt.
-  2. Navigate to the &quot;_c:\\**[LaravelDirectory]**\\Homestead_&quot; directory, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md).
-  3. Create the Homestead.yaml Configuration File using either;
+1. Open the Command Prompt.
+2. Navigate to the following directory, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md);
+  
+```
+[LaravelDirectory]\Homestead
+```
+
+3. Create the Homestead.yaml Configuration File using either;
 
 ### Windows:
 
@@ -18,8 +23,8 @@ init.bat
 bash init.sh
 ```
 
-  4. Open "_Homestead.yaml_" in a text editor.
-  5. Set &quot;_authorize:_&quot; to the path to your .ssh directory, replacing [**_YourUsername_**] with the folder name of your User Directory.
+4. Open "_Homestead.yaml_" in a text editor.
+5. Set &quot;_authorize:_&quot; to the path to your .ssh directory, replacing [**_YourUsername_**] with the folder name of your User Directory.
   
 ### Windows;
 
@@ -33,7 +38,7 @@ c:/Users/[YourUsername]/.ssh/id\_rsa.pub
 ~/.ssh/id_rsa.pub
 ```
 
-  6. Set &quot;_keys:_&quot; to the path to your .ssh directory, replacing [**_YourUsername_**] with the folder name of your User Directory.
+6. Set &quot;_keys:_&quot; to the path to your .ssh directory, replacing [**_YourUsername_**] with the folder name of your User Directory.
   
 ### Windows;
 
@@ -47,7 +52,7 @@ c:/Users/[YourUsername]/.ssh/id\_rsa.pub
 ~/.ssh/id_rsa
 ```
 
-  7. Set the &quot;_folders:_&quot; \&gt; &quot;- map:&quot; directory to your code directory, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md). e.g.;
+7. Set the &quot;_folders:_&quot; \&gt; &quot;- map:&quot; directory to your code directory, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md). e.g.;
 
 ```
 folders:
@@ -55,14 +60,14 @@ folders:
       to: /home/vagrant/code/
 ```
 
-  8. Add the PhpMyAdmin folder to the Homestead.yaml file by adding the following two lines under the &quot;_folders_&quot; section, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md);
+8. Add the PhpMyAdmin folder to the Homestead.yaml file by adding the following two lines under the &quot;_folders_&quot; section, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md);
 
 ```
     - map: c:/[LaravelDirectory]/phpMyAdmin
       to: /home/vagrant/code/phpMyAdmin
 ```
 
-  9. Add the PhpMyAdmin site to the Homestead.yaml file by adding the following two lines under the &quot;sites&quot; section;
+9. Add the PhpMyAdmin site to the Homestead.yaml file by adding the following two lines under the &quot;sites&quot; section;
 
 ```
 sites:
@@ -70,15 +75,15 @@ sites:
       to: /home/vagrant/code/phpMyAdmin
 ```
 
-  10. Set the &quot;_sites:_&quot; mapping to the name of your Project by addin the following lines to the end of the "_sites:" section, replacing [**_ProjectName_**] with the name of your Project;
+10. Set the "_sites:_" mapping to the name of your Project by adding the following lines to the end of the "_sites:" section, replacing [**_ProjectName_**] with the name of your Project;
 
 ```
     - map: www.[ProjectName].local
       to: /home/vagrant/code/[ProjectName]/public
 ```
 
-  11. Note the use of lowercase for the drive numbers and forward slashes for paths.
-  12. Save the file and close your text editor.
+11. Note the use of lowercase for the drive numbers and forward slashes for paths.
+12. Save the file and close your text editor.
 
 | Previous | Next |
 | -------- | ---- |
