@@ -6,8 +6,10 @@
 2. Navigate to [_WAMP Directory_]\www\ directory
 3. Create Project by entering the following command, replacing _[ProjectName]_ with your chosen Project Name;
 
+[//]: # "composer create-project laravel/laravel [ProjectName]"
+
 ```
-composer create-project laravel/laravel [ProjectName]
+composer create-project laravel/laravel=5.6.12 [ProjectName] --prefer-dist
 ```
 
 | Previous | Next |

@@ -29,7 +29,7 @@ bash init.sh
 ### Windows;
 
 ```
-c:/Users/[YourUsername]/.ssh/id\_rsa.pub
+c:/Users/[YourUsername]/.ssh/id/_rsa.pub
 ```
 
 ### Linux Bash;

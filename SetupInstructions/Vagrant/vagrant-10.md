@@ -17,7 +17,8 @@ cd code
   3. Create your Laravel project by using the following command, replacing [**_ProjectName_**] with the name of the Project you chose at [Step 7](vagrant-7.md);
 
 ```
-laravel new [ProjectName]
+composer create-project laravel/laravel=5.6.12 [ProjectName] --prefer-dist
+
 ```
 
   4. Test that the website is running by navigating to, replacing [**_ProjectName_**] with the name of the Project you chose at [Step 7](vagrant-7.md);
