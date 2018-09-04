@@ -18,6 +18,6 @@ Or you can use Vagrant and VirtualBox here;
 
 ---
 
-If you've already got an environment set up, then you can make your way straight to the Laravel Instructions here;
+If you've already got a basic Laravel Site set up, then you can make your way straight to the Laravel Instructions here;
 
 [Laravel Instructions](SetupInstructions/Laravel/README.md)
