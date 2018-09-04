@@ -32,4 +32,4 @@ DB\_PASSWORD=[DatabasePassword]
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 10 - Open the Project in VS Code ](wamp-10.md) | [Intro to Laravel >](/Laravel/laravel-1.md) |
+| [< Step 10 - Open the Project in VS Code ](wamp-10.md) | [Intro to Laravel >](/Laravel/README.md) |
