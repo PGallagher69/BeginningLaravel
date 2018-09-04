@@ -37,7 +37,7 @@ secret
 ---
 
 5. Press &quot;_Go_&quot;
-6. Click on [**_ProjectName_**] in list of databases on the left, replacing [**_ProjectName_**] with the name of the Project you chose.
+6. Click on [**_databasename_**] in list of databases on the left, replacing [**_databasename_**] with the name of the Database you chose.
 7. You should be able to see the &quot;_migrations_&quot;, &quot;_password\_resets_&quot; and &quot;_users_&quot; tables.
 
 | Previous | Next |
