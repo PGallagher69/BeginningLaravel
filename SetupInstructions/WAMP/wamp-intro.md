@@ -1,15 +1,10 @@
 # Setup for a WAMP based installation (Step 1):
 
-## Install Cmder:
+## Introduction:
 
-1. Download: [http://cmder.net/](http://cmder.net/)
-2. Copy to &quot;c:\Program Files(x86)\\&quot;
-3. Add Cmder to Path
-    1. Open Environment Variables
-    2. Edit Path Item
-    3. Click browse
-    4. Navigate to c:\Program Files(x86)\[_Cmder directory_]
-    5. Click OK to all dialogs
+The following instructions will take you through all of the required steps to get a working Laravel Installation up and running using WAMP and Composer.
+
+If you've already got the pre-requisites installed, and just want to create a new Laravel Website, then feel free to go to [Step 5](wamp-5.md) 
 
 | Previous | Next |
 | -------- | ---- |

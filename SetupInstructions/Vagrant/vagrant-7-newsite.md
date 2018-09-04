@@ -8,7 +8,7 @@
 [LaravelDirectory]\Homestead\Homestead.yaml
 ```
 
-2. Set the "_sites:_" mapping to the name of your Project by adding the following lines to the end of the "_sites:" section, replacing [**_ProjectName_**] with the name of your Project;
+2. Set the "_sites:_" mapping to the name of your Project by adding the following lines to the end of the "_sites:_" section, replacing [**_ProjectName_**] with the name of your Project;
 
 ```
     - map: www.[ProjectName].local
