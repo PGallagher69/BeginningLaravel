@@ -15,15 +15,14 @@
       to: /home/vagrant/code/[ProjectName]/public
 ```
 
-3. Note the use of lowercase for the drive numbers and forward slashes for paths.
-4. Save the file and close your text editor.
-5. Open the Command Prompt.
-6. Navigate to the following directory, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md);
+3. Save the file and close your text editor.
+4. Open the Command Prompt.
+5. Navigate to the following directory, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md);
   
 ```
 [LaravelDirectory]\Homestead
 ```
-7. execute the following command;
+6. execute the following command;
 
 ```
 vagrant reload
