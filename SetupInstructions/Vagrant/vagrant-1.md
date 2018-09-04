@@ -7,4 +7,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Vagrant Introduction](vagrant-intro.md) | [Step 2 - Install VirtualBox >](vagrant-2.md) |
+| [< Vagrant Introduction](README.md) | [Step 2 - Install VirtualBox >](vagrant-2.md) |

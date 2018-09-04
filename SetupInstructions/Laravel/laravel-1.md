@@ -36,4 +36,4 @@ Schema::defaultStringLength(191);
 
 | Previous | Next |
 | -------- | ---- |
-| [< Introduction to Laravel](laravel-intro.md) | [Step 2 - Create Users Table in Database >](laravel-2.md) |
+| [< Introduction to Laravel](README.md) | [Step 2 - Create Users Table in Database >](laravel-2.md) |

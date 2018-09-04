@@ -8,16 +8,16 @@ These instructions mostly assume a Windows Development Environment, however, Vag
 
 You can get started using WAMP here;
 
-[WAMP Setup Instructions](SetupInstructions/WAMP/wamp-intro.md)
+[WAMP Setup Instructions](SetupInstructions/WAMP/README.md)
 
 ---
 
 Or you can use Vagrant and VirtualBox here;
 
-[Vagrant and VirtualBox Instructions](SetupInstructions/Vagrant/vagrant-intro.md)
+[Vagrant and VirtualBox Instructions](SetupInstructions/Vagrant/README.md)
 
 ---
 
 If you've already got an environment set up, then you can make your way straight to the Laravel Instructions here;
 
-[Laravel Instructions](SetupInstructions/Laravel/laravel-intro.md)
+[Laravel Instructions](SetupInstructions/Laravel/README.md)
