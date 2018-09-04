@@ -30,4 +30,4 @@ vagrant reload
 
 | Previous | Next |
 | -------- | ---- |
-| [< Vagrant Introduction](README.md) | [Step 8 - Configure the Hosts File >](vagrant-8.md) |
+| [< Vagrant Introduction](README.md) | [Step 8 - Configure the Hosts File >](vagrant-8-newsite.md) |

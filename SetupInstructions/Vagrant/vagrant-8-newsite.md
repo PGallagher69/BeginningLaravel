@@ -5,7 +5,7 @@
 ### Windows:
 
   1. Open your text editor as Administrator.
-  2.  Open the hosts file at the following location;
+  2. Open the hosts file at the following location;
   
   ```
   c:\windows\sysytem32\drivers\etc\hosts
@@ -15,7 +15,6 @@
 
 ```
 192.168.10.10   www.[ProjectName].local
-192.168.10.10   www.phpmyadmin.local
 ```
 
   4. Save the file
@@ -28,11 +27,10 @@
 
 ```
 192.168.10.10   www.[ProjectName].local
-192.168.10.10   www.phpmyadmin.local
 ```
 
   3. Save the file.
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 7 - Setup homestead.yaml](vagrant-7.md) | [Step 9 - Launch the Vagrant Box >](vagrant-9.md) |
+| [< Step 7 - Setup homestead.yaml](vagrant-7-newsite.md) | [Step 10 -	Create the Laravel Project >](vagrant-10.md) |
