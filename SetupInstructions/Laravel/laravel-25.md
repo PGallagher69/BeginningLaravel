@@ -31,7 +31,7 @@ return "Ok";
 3. Add the following code at the bottom of the "_store_" function, replacing the following;
     - [**_modelname_**] - With the lowercase name of the Model you created at [Step 2](laravel-2.md).
     - [**_columnname_**] - With the lowecase name of your Column Name.
-    - [**_ControllerName_**] - With the Controller Name you chose in [Step 10](laravel-10.md).
+    - [**_controllername_**] - With the lowercase Controller Name you chose in [Step 10](laravel-10.md).
 
 ```PHP
 $[modelname] = new [ModelName];
@@ -40,7 +40,7 @@ $[modelname]->[columnname] = $request->input('[columnname]');
 $[modelname]->[columnname] = $request->input('[columnname]');
 $[modelname]->save();
 
-return redirect('[ControllerName]')->with('result', 'Saved');
+return redirect('/[controllername]')->with('result', 'Saved');
 ```
 
 4. Save the file.
