@@ -15,6 +15,12 @@
       to: /home/vagrant/code/[ProjectName]/public
 ```
 
+3. Add a database for your project by adding the following lines to the end of the "_databases:_" section, replacing [**_databasename_**] with the name of your project's database;
+
+```
+    - [databasename]
+```
+
 3. Save the file and close your text editor.
 4. Open the Command Prompt.
 5. Navigate to the following directory, replacing the [**_LaravelDirectory_**] with the directory you chose to create at [Step 5](vagrant-5.md);
@@ -25,7 +31,7 @@
 6. execute the following command;
 
 ```
-vagrant reload
+vagrant reload --provision
 ```
 
 | Previous | Next |

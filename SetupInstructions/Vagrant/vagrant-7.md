@@ -83,7 +83,13 @@ sites:
 ```
 
 11. Note the use of lowercase for the drive numbers and forward slashes for paths.
-12. Save the file and close your text editor.
+12. Add a database for your project by adding the following lines to the end of the "_databases:_" section, replacing [**_databasename_**] with the name of your project's database;
+
+```
+    - [databasename]
+```
+
+13. Save the file and close your text editor.
 
 | Previous | Next |
 | -------- | ---- |

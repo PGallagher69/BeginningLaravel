@@ -9,4 +9,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 10 - Create the Laravel Project](vagrant-10.md) | [Intro to Laravel >](/SetupInstructions/Laravel/README.md) |
+| [< Step 10 - Create the Laravel Project](vagrant-10.md) | [Modify the Laravel .env file >](vagrant-12.md) |
