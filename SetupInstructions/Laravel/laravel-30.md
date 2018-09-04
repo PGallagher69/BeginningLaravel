@@ -44,8 +44,8 @@
 
 ```PHP
 $[modelname] = [ModelName]::find($id);
-        $[modelname]->delete();
-        return redirect('/[controllername]')->with('result', 'Deleted');
+$[modelname]->delete();
+return redirect('/[controllername]')->with('result', 'Deleted');
 ```
 
 7. Save the file.
