@@ -8,7 +8,7 @@
 
 ### For WAMP:
 
-2. Navigate to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)
+2. Navigate to <a href="http://localhost/phpmyadmin/" target="_blank">http://localhost/phpmyadmin/</a>
 
 3. Enter the following Username; 
 
@@ -20,7 +20,7 @@ root
 
 ### For Vagrant:
 
-2. Navigate to [http://www.phpmyadmin.local](http://www.phpmyadmin.local) 
+2. Navigate to <a href="http://www.phpmyadmin.local" target="_blank">http://www.phpmyadmin.local/</a>
 
 3. Enter the following Username; 
 
