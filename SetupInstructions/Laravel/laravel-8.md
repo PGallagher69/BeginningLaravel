@@ -17,7 +17,7 @@ https://laravel.com/docs/5.6/middleware
 1. Open the following file;
 
 ```
-\app\Http\Controllers\middleware\RedirectIfAuthenticated.php
+\app\Http\Middleware\RedirectIfAuthenticated.php
 ```
 
 2. Find the "_handle_" function around line 18;
