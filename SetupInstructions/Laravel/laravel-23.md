@@ -26,7 +26,19 @@ $this->validate($request, [
 return "Ok";
 ```
 
-4. Save the File.
+4. Save the file.
+5. Open your browser and navigate to the following address, replacing [**_ProjectName_**] with the Project Name you chose, and replacing [**_controllername_**] with the lowercase Controller Name you chose in [Step 10](laravel-10.md);
+
+```
+http://www.[ProjectName].local/[controllername]/create
+```
+
+6. Leave various fields empty.
+7. Press the Submit Button.
+8. Verify that the page doesn't move on.
+9. Enter data in all of the fields.
+10. Press the Submit Button.
+11. Verify that the page shows "Ok".
 
 | Previous | Next |
 | -------- | ---- |
