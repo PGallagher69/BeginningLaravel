@@ -43,7 +43,7 @@ c:/Users/[YourUsername]/.ssh/id/_rsa.pub
 ### Windows;
 
 ```
-c:/Users/[YourUsername]/.ssh/id\_rsa.pub
+c:/Users/[YourUsername]/.ssh/id/_rsa.pub
 ```
 
 ### Linux Bash;
